@@ -1,0 +1,38 @@
+{
+  "election": {
+    "title": "Campus Election 2026",
+    "description": "A blockchain-backed election demo for secure and transparent digital voting.",
+    "contractAddress": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+    "networkName": "Localhost 8545",
+    "chainId": 31337,
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "agenda": "Digital transformation and transparent budgeting"
+      },
+      {
+        "id": 2,
+        "name": "Brian Lee",
+        "agenda": "Student welfare and campus accessibility"
+      },
+      {
+        "id": 3,
+        "name": "Catherine Rao",
+        "agenda": "Innovation labs and startup support"
+      }
+    ]
+  },
+  "voters": [
+    {
+      "id": "aab3b07f-8669-415a-9338-541b2c4ca09e",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "nationalId": "12345",
+      "walletAddress": "0x8626f6940e2eb28930efb4cef49b2d1f2c9c1199",
+      "approved": true,
+      "createdAt": "2026-04-17T05:38:12.969Z",
+      "approvedAt": "2026-04-17T06:32:35.931Z"
+    }
+  ]
+}

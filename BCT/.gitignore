@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.env.*
+coverage
+artifacts
+cache
+server/data/runtime.json
+
